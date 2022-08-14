@@ -1,8 +1,4 @@
-### Multidisciplinary individual with long experience collecting, transforming, and organizing data for analysis to help
-informed decisions. Excellent understanding and proficiency of platforms for effective data analyses, including SQL,
-spreadsheets, Tableau, and R. Extensive programming experience with matlab, VBA and JavaScript. Recently completed
-the Google Data Analytics Certificate - A rigorous, hands-on program that covers the entire scope of the data
-analysis progress. Looking for a full-time remote Data Analyst position.
+### Multidisciplinary individual with long experience collecting, transforming, and organizing data for analysis to help informed decisions. Excellent understanding and proficiency of platforms for effective data analyses, including SQL, spreadsheets, Tableau, and R. Extensive programming experience with matlab, VBA and JavaScript. Recently completed the Google Data Analytics Certificate - A rigorous, hands-on program that covers the entire scope of the data analysis progress. Looking for a full-time remote Data Analyst position.
 
 <!--
 **ElbanoMorales/ElbanoMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
