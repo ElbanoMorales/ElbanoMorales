@@ -1,5 +1,8 @@
-### Data analyst
+### Elbano Morales
+
 Petroleum engineer since 2014. My career has made me a multidisciplinary individual with long experience collecting, transforming, and organizing data for analysis to help informed decisions. I have excellent understanding and proficiency of platforms for effective data analyses, including SQL, spreadsheets, Tableau, and R. I started programming in 2014 and have extensive experience with matlab, VBA and JavaScript. Recently completed the Google Data Analytics Certificate - A rigorous, hands-on program that covers the entire scope of the data analysis progress. I'm currently Looking for a full-time remote position.
+
+Read my latest data analysis titled [Trends and insights on energy consumption](https://github.com/ElbanoMorales/data_analysis_energy)
 
 <!--
 **ElbanoMorales/ElbanoMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
