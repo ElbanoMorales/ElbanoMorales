@@ -1,6 +1,6 @@
 ### Elbano Morales
 
-My career and roles have made me a multidisciplinary individual with long experience collecting, transforming, and organizing data for analysis to help informed decisions. I started programming after graduating in 2014, and have extensive proven experience with matlab, JavaScript, VBA, C#, SQL, R; and  good understanding of HTML and CSS. I bear excellent understanding and proficiency of platforms for effective data analyses, including SQL and spreadsheets, and always base my analyses on core subjects like statistics, algebra and calculus. I love studying and practicing everyday and I'm looking to collaborate on projects that help my career grow in programming and data sciences.
+My career and roles have made me a multidisciplinary individual with long experience collecting, transforming, and organizing data for analysis to help informed decisions. I started programming after graduating in 2014, and have extensive proven experience with matlab, JavaScript, VBA, C#, SQL, R; and  good understanding of HTML and CSS. I bear excellent understanding and proficiency of platforms for effective data analyses, including SQL and spreadsheets, and always base my analyses on core subjects like statistics, algebra and calculus. I love studying and practicing everyday and I'm looking forward to collaborate on projects that help my career grow in programming and data sciences.
 
 Read my latest data analysis titled [Trends and insights on energy consumption](https://github.com/ElbanoMorales/data_analysis_energy)
 
